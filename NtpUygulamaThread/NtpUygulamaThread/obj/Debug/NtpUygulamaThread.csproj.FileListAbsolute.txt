@@ -1,0 +1,10 @@
+C:\Users\vıctus\source\repos\NtpUygulamaThread\NtpUygulamaThread\bin\Debug\NtpUygulamaThread.exe.config
+C:\Users\vıctus\source\repos\NtpUygulamaThread\NtpUygulamaThread\bin\Debug\NtpUygulamaThread.exe
+C:\Users\vıctus\source\repos\NtpUygulamaThread\NtpUygulamaThread\bin\Debug\NtpUygulamaThread.pdb
+C:\Users\vıctus\source\repos\NtpUygulamaThread\NtpUygulamaThread\obj\Debug\NtpUygulamaThread.csproj.AssemblyReference.cache
+C:\Users\vıctus\source\repos\NtpUygulamaThread\NtpUygulamaThread\obj\Debug\NtpUygulamaThread.Form1.resources
+C:\Users\vıctus\source\repos\NtpUygulamaThread\NtpUygulamaThread\obj\Debug\NtpUygulamaThread.Properties.Resources.resources
+C:\Users\vıctus\source\repos\NtpUygulamaThread\NtpUygulamaThread\obj\Debug\NtpUygulamaThread.csproj.GenerateResource.cache
+C:\Users\vıctus\source\repos\NtpUygulamaThread\NtpUygulamaThread\obj\Debug\NtpUygulamaThread.csproj.CoreCompileInputs.cache
+C:\Users\vıctus\source\repos\NtpUygulamaThread\NtpUygulamaThread\obj\Debug\NtpUygulamaThread.exe
+C:\Users\vıctus\source\repos\NtpUygulamaThread\NtpUygulamaThread\obj\Debug\NtpUygulamaThread.pdb
